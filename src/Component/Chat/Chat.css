@@ -1,0 +1,48 @@
+.chatPage{
+    color: rgb(16, 16, 232);
+     
+    width: 400px;
+    height: 460px;
+    background-color: #481616;
+
+}
+.chatContainer{
+    background-color: red;
+    width: 100%;
+    height: 80%;
+    position: relative;
+    
+}
+.header{
+    position: relative;
+    background-color: aquamarine;
+    width: 100%;
+    height: 20%;
+}
+.inputBox{
+    position: bottom;
+    position: absolute;
+    
+}
+.chatBox{
+     position: absolute;
+     height: 90%;
+     width: 100%;
+    
+
+    background-color: rgb(199, 173, 173);
+     
+    
+
+}
+#chatInput{
+    position: relative;
+    
+    width: 20rem;
+    height: 2rem;
+}
+.sendBtn{
+    width: 4rem;
+    height: 2.5rem;
+    
+}

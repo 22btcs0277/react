@@ -1,0 +1,25 @@
+.messageBox{
+    color: #ada8a8;
+    width: 100px;
+    border-radius: 6px;
+    height: auto;
+    background-color: aqua;
+    margin-bottom: 7px;
+    margin-top: 2px;
+    overflow-wrap:anywhere;
+    /* overflow-y: scroll; */
+    /* position: relative; */
+}
+.right{
+  background-color: black;
+  position: relative;
+  left: 8px;
+  
+   
+}
+.left{
+    position: relative;
+    left: 292Px;
+    background-color: rgb(10, 10, 90);
+
+}
